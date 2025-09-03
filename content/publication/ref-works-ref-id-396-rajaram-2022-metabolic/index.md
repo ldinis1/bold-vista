@@ -1,0 +1,37 @@
+---
+title: Metabolic changes accompanying the loss of fumarate hydratase and malate–quinone
+  oxidoreductase in the asexual blood stage of Plasmodium falciparum
+authors:
+- Krithika Rajaram
+- Shivendra G. Tewari
+- Anders Wallqvist
+- Sean T. Prigge
+date: 2022-None-01
+publishDate: '2025-09-03T17:49:15.206963Z'
+publication_types:
+- article-journal
+publication: '*Journal of Biological Chemistry*'
+doi: 10.1016/j.jbc.2022.101897
+abstract: In the glucose-rich milieu of red blood cells, asexually replicating malarial
+  parasites mainly rely on glycolysis for ATP production, with limited carbon flux
+  through the mitochondrial tricarboxylic acid (TCA) cycle. By contrast, gametocytes
+  and mosquito-stage parasites exhibit an increased dependence on the TCA cycle and
+  oxidative phosphorylation for more economical energy generation. Prior genetic studies
+  supported these stage-specific metabolic preferences by revealing that six of eight
+  TCA cycle enzymes are completely dispensable during the asexual blood stages of
+  Plasmodium falciparum, with only fumarate hydratase (FH) and malate–quinone oxidoreductase
+  (MQO) being refractory to deletion. Several hypotheses have been put forth to explain
+  the possible essentiality of FH and MQO, including their participation in a malate
+  shuttle between the mitochondrial matrix and the cytosol. However, using newer genetic
+  techniques like CRISPR and dimerizable Cre, we were able to generate deletion strains
+  of FH and MQO in P. falciparum. We employed metabolomic analyses to characterize
+  a double knockout mutant of FH and MQO (ΔFM) and identified changes in purine salvage
+  and urea cycle metabolism that may help to limit fumarate accumulation. Correspondingly,
+  we found that the ΔFM mutant was more sensitive to exogenous fumarate, which is
+  known to cause toxicity by modifying and inactivating proteins and metabolites.
+  Overall, our data indicate that P. falciparum is able to adequately compensate for
+  the loss of FH and MQO, rendering them unsuitable targets for drug development.
+links:
+- name: URL
+  url: https://www.jbc.org/article/S0021-9258(22)00337-4/abstract
+---
